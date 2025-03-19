@@ -22,6 +22,6 @@ button:hover {
 margin-top: 40x;
 display: grid;
 grid-template-columns: 1fr 1fr 1fr 1fr;
-grid-grap: 20px;
+grid-gap: 20px;
 }
 
